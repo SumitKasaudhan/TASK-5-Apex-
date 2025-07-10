@@ -1,0 +1,22 @@
+TASK 5/
+├── assets/
+│   ├── css/
+│   │   ├── styles.css           # Main stylesheet
+│   │   └── styles.min.css       # Minified version
+│   ├── js/
+│   │   ├── main.js              # Main JavaScript
+│   │   ├── cart.js              # Shopping cart functionality
+│   │   ├── products.js          # Product management
+│   │   ├── auth.js              # Authentication
+│   │   └── main.min.js          # Minified version
+│   └── images/
+│       ├── products/            # Product images
+│       ├── icons/               # UI icons
+│       └── layout/              # Layout images
+├── index.html                   # Homepage
+├── products.html                # Product listing page
+├── product-detail.html          # Single product page
+├── cart.html                    # Shopping cart
+├── checkout.html                # Checkout process
+├── account.html                 # User account
+└── about.html                   # About page
